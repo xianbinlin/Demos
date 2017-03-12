@@ -14,5 +14,11 @@ An demo of collectionView that swith collectionview items as carts. Created on 2
 - support both landscape and portrait device orientation and scroll orientation.
 - audo play video in screen center.
 
-![alt text](https://www.dropbox.com/pri/get/github/v1.gif?_subject_uid=573681392&raw=1&size=2048x1536&size_mode=3&w=AACLmhKP4wF8MdiGE6WWgk96d4JUk4zu1EkLn8XWPXb-Hw
- "Demo gif")
+![alt text](https://github.com/xianbinlin/Demos/blob/master/iOS/DemoCartCollectionView/docs/h1.gif?raw=true
+ "Demo gif1")
+
+ ![alt text](https://github.com/xianbinlin/Demos/blob/master/iOS/DemoCartCollectionView/docs/h2.gif?raw=true
+  "Demo gif2")
+
+  ![alt text](https://github.com/xianbinlin/Demos/blob/master/iOS/DemoCartCollectionView/docs/v1.gif?raw=true
+   "Demo gif3") ![alt text](https://github.com/xianbinlin/Demos/blob/master/iOS/DemoCartCollectionView/docs/v2.gif?raw=true "Demo gif4") ![alt text](https://github.com/xianbinlin/Demos/blob/master/iOS/DemoCartCollectionView/docs/v3.gif?raw=true "Demo gif5")
