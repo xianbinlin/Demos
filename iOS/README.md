@@ -2,7 +2,7 @@
 
 Demos re-write with Swift3 et tested in iOS 10.
 
-- [Demo MapkitView with GKStateMachine in no game app](huhttps://github.com/xianbinlin/Demos/tree/master/iOS/DemoMapKitView)
+- [Demo MapkitView with GKStateMachine in no game app](https://github.com/xianbinlin/Demos/tree/master/iOS/DemoMapKitView)
 
 - [Demo cart collectionView](https://github.com/xianbinlin/Demos/tree/master/iOS/DemoCartCollectionView)
 
