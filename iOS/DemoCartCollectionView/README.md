@@ -1,6 +1,6 @@
 # Demo cart collection View
 
-An demo of collectionView that swith collectionview items as carts. Created on 23/05/2016. Updated to swift3 on 25/02/2017.
+A demo of collectionView that swith collectionview items as carts. Created on 23/05/2016. Updated to swift3 on 25/02/2017.
 
 ## If you want to test
 - video files are too big, I remove the code for auto-play videos
